@@ -81,3 +81,6 @@ By the end of this module, you will:
 - [ ] Regular review of AI-generated security recommendations
 - [ ] Team training on AI security insights
 - [ ] Continuous improvement based on AI feedback
+
+## References
+- [Finding vulnerabilities in modern web apps using Claude Code and OpenAI Codex](https://semgrep.dev/blog/2025/finding-vulnerabilities-in-modern-web-apps-using-claude-code-and-openai-codex)
